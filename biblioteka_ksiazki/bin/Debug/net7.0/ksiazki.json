@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Tytul": "nigga",
+    "Autor": "marcin luter",
+    "RokWydania": 1910,
+    "Gatunek": "komedia"
+  },
+  {
+    "Id": 2,
+    "Tytul": "siema",
+    "Autor": "kacper",
+    "RokWydania": 1910,
+    "Gatunek": "horro"
+  }
+]
